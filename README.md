@@ -109,4 +109,4 @@ class PaginaInicio extends StatelessWidget {
 }
 
 ## Mi diseño
-![alt text](image-2.png)
+<img width="469" height="740" alt="image" src="https://github.com/user-attachments/assets/225e6dce-6f7a-47ad-abf5-8e7641b3194e" />
